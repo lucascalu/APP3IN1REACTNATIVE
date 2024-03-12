@@ -19,3 +19,4 @@ CRITÉRIOS:
 (D) DESGIN DESENVOLVIDO É DIFERENTE DO MODELO DE EXEMPLO DO DOCENTE E DOS OUTROS ALUNOS DA SALA DE AULA
 
 </p>
+<pre>Entrega deverá ser realizada através de email para professorlucascalu@gmail.com </pre>
